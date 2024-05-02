@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "kalbona6.github.io",
+  "Id": "c38da919-753e-4548-bcc1-faa503c155f7"
+}
